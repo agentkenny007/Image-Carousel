@@ -1,22 +1,37 @@
 var carouselImages = [
   {
-    image_url: 'http://interfacelift.com/wallpaper/Debbfb5b/03966_upondescent_1280x720.jpg',
-    title: 'Upon Descent',
-    photographer_id: 'Phil2001'
+    image_url: 'http://desktopography.net/media/exhibition/2006/hushed/large.jpg',
+    title: 'Hushed',
+    photographer_id: 'Michael Withers'
   },
   {
-    image_url: 'https://interfacelift.com/wallpaper/7yz4ma1/03965_sunsetinthecascades_1280x720.jpg',
-    title: 'Sunset in the Cascades',
-    photographer_id: 'smpoutdoors'
+    image_url: 'http://desktopography.net/media/exhibition/2006/dndln/large.jpg',
+    title: 'Dndln',
+    photographer_id: 'Carlos'
   },
   {
-    image_url: 'https://interfacelift.com/wallpaper/7yz4ma1/03958_seljalandsfossiceland_1280x720.jpg',
-    title: 'Seljalandsfoss, Iceland',
-    photographer_id: 'Robin Kamp'
+    image_url: 'http://desktopography.net/media/exhibition/2007/open_source/large.jpg',
+    title: 'Open Source',
+    photographer_id: 'Jerico Santander'
   },
   {
-    image_url: 'https://interfacelift.com/wallpaper/7yz4ma1/03950_godsrays_1280x720.jpg',
-    title: 'Gods Rays',
-    photographer_id: 'illuminati'
+    image_url: 'http://desktopography.net/media/exhibition/2007/treehugger/large.jpg',
+    title: 'Treehugger',
+    photographer_id: 'Pete Harrison'
+  },
+  {
+    image_url: 'http://desktopography.net/media/exhibition/2007/dsn/large.jpg',
+    title: 'DSN',
+    photographer_id: 'Marius Bauer'
+  },
+  {
+    image_url: 'http://desktopography.net/media/exhibition/2008/blue_moon/large.jpg',
+    title: 'Blue Moon',
+    photographer_id: 'Microbot'
+  },
+  {
+    image_url: 'http://desktopography.net/media/exhibition/2009/fight_for_alpha/large.jpg',
+    title: 'Fight for Alpha',
+    photographer_id: 'Space Jump'
   }
 ];
