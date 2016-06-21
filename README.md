@@ -1,3 +1,3 @@
 # A custom jQuery/CSS Carousel
 
-Gonna try to make an image slider using css transitions and minimal jQuery.
+An image slider using CSS transitions and minimal jQuery. Based on the mockup image [carousel.gif](https://github.com/agentkenny007/Image-Carousel/blob/master/carousel.gif) in this repo.
