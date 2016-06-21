@@ -1,0 +1,64 @@
+html, body {
+  height: 100%; }
+
+body {
+  margin-top: 200px;
+  font: 14px Tahoma;
+  color: white;
+  margin: 50px 0 0; }
+
+a {
+  color: #fff; }
+
+.slider {
+  position: relative;
+  width: 880px;
+  height: 490px;
+  margin: auto;
+  padding: 0; }
+
+.slider li {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  transition: opacity 0.85s ease; }
+
+.slider li span {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 3px 8px;
+  border-radius: 3px; }
+
+.slider img {
+  width: 100%; }
+
+.slider .arrow {
+  position: absolute;
+  cursor: pointer;
+  width: 50px;
+  height: 100px;
+  font-size: 40px;
+  top: 50%;
+  margin-top: -50px;
+  text-align: center;
+  line-height: 100px;
+  z-index: 1;
+  transition: background 0.4s ease-out;
+  text-shadow: 1px 2px 2px #000;
+  background: rgba(0, 0, 0, 0.3); }
+
+.slider .left.arrow {
+  left: 0;
+  border-radius: 0 8px 8px 0; }
+
+.slider .right.arrow {
+  right: 0;
+  border-radius: 8px 0 0 8px; }
+
+.slider .arrow:hover {
+  background: rgba(0, 0, 0, 0.5); }
+
+.slider .hidden {
+  opacity: 0; }
